@@ -1,6 +1,6 @@
 MySQL Editions Media Pack for Microsoft Windows x64 (64-bit)
 ========
->   **声明：**本分享列表仅为[官网Oracle MySQL数据包（Windows X64）][1]的镜像备份，为了方便国内下载而存储与百度云盘中，所有数据归[Oracle MySQL][2]所有。
+>   **声明：**本分享列表仅为官网Oracle MySQL数据包（[Windows X64][1]）的镜像备份，为了方便国内下载而存储与百度云盘中，所有数据归[Oracle MySQL][2]所有。
 
 >   **整理：**本列表由http://futeng.iteye.com/博主亲情整理，期待交流与分享。
 
