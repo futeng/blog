@@ -1,0 +1,22 @@
+# SVN插件安装 MyEclipse Eclipse STS
+
+---
+
+##1. Download Subclipse Plugin##
+**Official website** [click here](http://subclipse.tigris.org/servlets/ProjectDocumentList?folderID=2240) 
+**or quick download version** [*site-1.8.22.zip*](http://subclipse.tigris.org/files/documents/906/49280/site-1.8.22.zip) 
+
+unzip and rename it, like this :
+![site-1.8.22.zip](http://dl2.iteye.com/upload/attachment/0096/6949/83645554-1457-3bac-b8d8-880961ab3185.png)
+
+##2. Put unzip file to %MyEclipse%/dropins ##
+![put into dropins](http://dl2.iteye.com/upload/attachment/0096/6953/3d0a948d-9055-3c76-8dab-11b5cf084603.png)
+##3. Restart MyEclipse##
+
+We can click here to test : *Window/preference* and type *svn*.
+
+![preference svn](http://dl2.iteye.com/upload/attachment/0096/6955/7d61a087-ef6f-318b-b7d2-700a509073ec.png)
+
+Now we can use SVN via this plugin.
+
+
